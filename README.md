@@ -1,7 +1,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+world+Just+WarEPOS+)](https://git.io/typing-svg)
 
 - 👋 Hi, I'm @Lacnipos
-- 👀 Always WarEPOS for the Best
+- 👀 Always LacniPOS for the Best
 - 📫 https://lacnipos.com
 
 ### Languages and Tools:
