@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+world+Just+WarEPOS+)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+world+Just+Lacnipos+)](https://git.io/typing-svg)
 
 - 👋 Hi, I'm @Lacnipos
 - 👀 Always LacniPOS for the Best
@@ -17,8 +17,8 @@
 <br />
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=warepos&count_private=true&show_icons=true&theme=ayu-mirage" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=warepos&theme=ayu-mirage" alt="my commit status" width="49%" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=Lacnipos&count_private=true&show_icons=true&theme=ayu-mirage" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lacnipos&theme=ayu-mirage" alt="my commit status" width="49%" /> </p>
 
 ---
 
