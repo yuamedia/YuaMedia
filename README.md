@@ -1,8 +1,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+world+Just+Lacnipos+)](https://git.io/typing-svg)
 
-- 👋 Hi, I'm @Lacnipos
-- 👀 Always LacniPOS for the Best
-- 📫 https://lacnipos.com
+- 👋 Hi, I'm @PatinceUK
+- 📫 https://Patince.co.uk
 
 ### Languages and Tools:
 
