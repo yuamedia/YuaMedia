@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+world+Just+Lacnipos+)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+world+Just+Patience+)](https://git.io/typing-svg)
 
 - 👋 Hi, I'm @PatinceUK
 - 📫 https://Patince.co.uk
