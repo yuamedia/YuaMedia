@@ -16,8 +16,8 @@
 <br />
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Lacnipos&count_private=true&show_icons=true&theme=ayu-mirage" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lacnipos&theme=ayu-mirage" alt="my commit status" width="49%" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=YuaMedia&count_private=true&show_icons=true&theme=ayu-mirage" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YuaMedia&theme=ayu-mirage" alt="my commit status" width="49%" /> </p>
 
 ---
 
